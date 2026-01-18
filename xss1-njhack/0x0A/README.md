@@ -4,7 +4,7 @@
 > **难度**: ⭐⭐⭐ (中等偏上，坑点隐蔽)  
 > **考点**: HTML 实体编码缺陷、URL 解析特性、域名绕过  
 > **环境**: macOS + Chrome 浏览器  
-> **Author**: Hackerchen
+> **Author**: 建防 (Hackerchen716)
 
 ---
 
@@ -449,7 +449,7 @@ xss/
 
 ---
 
-**Author**: Hackerchen 
+**Author**: 建防 (Hackerchen716)  
 **Date**: 2026-01-18  
 **Platform**: xss1.njhack.xyz  
 **Challenge**: 0x0A
